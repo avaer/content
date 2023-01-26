@@ -1,0 +1,6 @@
+silkworm-biter.glb
+silkworm-bloater.glb
+silkworm-queen.glb
+silkworm-runner.glb
+silkworm-slasher.glb
+silkworm.glb
